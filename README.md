@@ -2,7 +2,7 @@
 - 👀 I’m interested in Teledetection and geomatics integration into modern webapps 
 - 🌱 I’m currently learning geomatics in Faculty of Science Tunis (FST)
 - 💞️ I’m looking to collaborate on Geolocation API projects and GIS webapps
-- 📫 How to reach me : My email : mahdiabderrahmen@tutanota.com
+- 📫 How to reach out : email me at : mahdiabderrahmen@tutanota.com
 - 🔗 All my links : https://linktr.ee/Mahdi_Madi
 
 <!---
