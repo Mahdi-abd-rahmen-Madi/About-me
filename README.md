@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Mahdi Madi, Master's degree student with entrepreuneurial visions , Technology and online security enthousiast with and artistical touch and deep philosophical toughts ..  
-- 👀 I’m interested in Remote sensing and GIS integration into modern webapps 
-- 🌱 I’m currently learning GIS in Faculty of Science Tunis (FST)
-- 💞️ I’m looking to collaborate on Geolocation API projects and GIS webapps
-- 📫 How to reach out : email me at : mahdiabderrahmen@tutanota.com
-- 🔗 All my links : https://linktr.ee/Mahdi_Madi
-
 <h1 align="center">Hi 👋, I'm Mahdi Madi</h1>
 <h3 align="center">A passionate GIS Analyst | Self Taught Web Developer from Tunisia</h3>
 
