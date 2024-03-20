@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **GIS and Web development**
 
-- 📫 How to reach me **mahdiabderrahmen@duck.com**
+- 📫 How to reach out **mahdiabderrahmen@duck.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahdi-madi-a835a0188/](https://www.linkedin.com/in/mahdi-madi-a835a0188/)
 
